@@ -59,7 +59,7 @@ I am an **Agentic AI Developer** with **2+ years of industry experience** across
 
 ---
 
-## 💼 Experience Highlights (3+ Years)
+## 💼 Experience Highlights (2+ Years)
 
 - **Ahmed Zaker & Co.** — *IT Executive Officer & AI Workflow Automation* (Nov 2023 – Present)
   - Automated enterprise support workflows, troubleshooting playbooks, and standardized Knowledge Base generation using LLM tooling.
