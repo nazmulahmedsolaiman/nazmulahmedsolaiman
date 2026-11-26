@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I am an **Agentic AI Developer** with **3+ years of industry experience** across **Genesis Software & Technology LTD** and **Ahmed Zaker & Co.**, specializing in designing autonomous multi-agent workflows, tool-calling LLM systems, production RAG pipelines, and cloud-integrated AI automation.
+I am an **Agentic AI Developer** with **2+ years of industry experience** across **Genesis Software & Technology LTD** and **Ahmed Zaker & Co.**, specializing in designing autonomous multi-agent workflows, tool-calling LLM systems, production RAG pipelines, and cloud-integrated AI automation.
 
 - 🧠 **Focus Areas:** Stateful Multi-Agent Orchestration (`LangGraph`, `CrewAI`, `AutoGen`), Model Context Protocol (`MCP`), Hybrid RAG, and Enterprise Workflow Automation.
 - 🎓 **Education:** M.Sc. in Computer Science & Engineering (Jagannath University, Ongoing) • B.Sc. in CSE (BAUST).
